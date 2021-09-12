@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name mpcie)(type Legacy)(uri ${KIPRJMOD}/Lib/kicad-mini-pci-express/mpcie.lib)(options "")(descr ""))
+  (lib (name USB1015-XX-X-X_REVC)(type Legacy)(uri ${KIPRJMOD}/Lib/USB1015-XX-X-X_REVC/USB1015-XX-X-X_REVC.lib)(options "")(descr ""))
 )
