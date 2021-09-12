@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name mpcie)(type KiCad)(uri ${KIPRJMOD}/Lib/kicad-mini-pci-express/mpcie.pretty)(options "")(descr ""))
   (lib (name DCEXT)(type KiCad)(uri ${KIPRJMOD}/DCEXT.pretty)(options "")(descr ""))
+  (lib (name eec)(type KiCad)(uri "${KIPRJMOD}/Lib/IC_ST Microelectronics_USBUF02W6/eec.pretty")(options "")(descr ""))
 )
