@@ -2,4 +2,5 @@
   (lib (name mpcie)(type Legacy)(uri ${KIPRJMOD}/Lib/kicad-mini-pci-express/mpcie.lib)(options "")(descr ""))
   (lib (name USB1015-XX-X-X_REVC)(type Legacy)(uri ${KIPRJMOD}/Lib/USB1015-XX-X-X_REVC/USB1015-XX-X-X_REVC.lib)(options "")(descr ""))
   (lib (name eec)(type Legacy)(uri "${KIPRJMOD}/Lib/IC_ST Microelectronics_USBUF02W6/eec.lib")(options "")(descr ""))
+  (lib (name myLib)(type Legacy)(uri ${KIPRJMOD}/Lib/myLib.lib)(options "")(descr ""))
 )
