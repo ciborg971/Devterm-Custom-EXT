@@ -1,4 +1,4 @@
-19225971027487936
+19229247245648936
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -48775,6 +48775,20 @@ GCT_USB1015-XX-X-X_REVC
 0
 8
 8
+DCEXT
+USB-A-SMD_AF-LCP-OFFSET
+
+
+0
+6
+6
+DCEXT
+USB-A-TH_USB-M-55-F
+
+
+0
+6
+6
 DCEXT
 mpcie-half-card
 
